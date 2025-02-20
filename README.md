@@ -45,8 +45,5 @@
 ## 🤝 **Contributing**  
 Feel free to fork, contribute, or raise an issue. All contributions are welcome!  
 
-## 📜 **License**  
-This project is **open-source** and available under the **MIT License**.  
-
 ---
 
